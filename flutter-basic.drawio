@@ -49,11 +49,20 @@
         <mxCell id="Ft04dYlBNAyAh4mF_v9f-1" value="sometimes it&#39;s unnecessary" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="400" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nijm3CrMaP0LtH78g8Mr-1" value="&lt;b&gt;Create new Flutter project&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nijm3CrMaP0LtH78g8Mr-1" value="&lt;b&gt;Create new Flutter project&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="510" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nijm3CrMaP0LtH78g8Mr-2" value="flutter create &amp;lt;app-name&amp;gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nijm3CrMaP0LtH78g8Mr-2" value="flutter create &amp;lt;app-name&amp;gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="550" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3rv_LQUTHW99N5m8yzX-1" value="&lt;b&gt;Run Flutter on Web (e.g. Firefox)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="650" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3rv_LQUTHW99N5m8yzX-2" value="flutter run -d web-server" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="690" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3rv_LQUTHW99N5m8yzX-3" value="then click the address" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="730" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
